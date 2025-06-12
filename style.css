@@ -1,0 +1,38 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #f8f9fa;
+  color: #111;
+  line-height: 1.6;
+}
+header {
+  background: #003366;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+.subtitle {
+  font-size: 1.2rem;
+  color: #99c;
+}
+.cta {
+  display: inline-block;
+  margin: 1rem;
+  padding: 0.8rem 1.2rem;
+  background: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+section {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #eee;
+  margin-top: 2rem;
+}
